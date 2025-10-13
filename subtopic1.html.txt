@@ -1,0 +1,8 @@
+<h1>Subtopic 1: The Energy Consumption of LLMs</h1>
+<p>Discuss the difference in energy usage between training large models (high, short-term) and inference (lower, sustained). Use an unordered list to list energy-saving techniques.</p>
+<ul>
+    <li>Technique 1: Quantization</li>
+    <li>Technique 2: Model Pruning</li>
+    <li>Technique 3: Efficient Cooling Systems</li>
+</ul>
+<img src="placeholder-energy.jpg" alt="Graph showing energy consumption over time.">

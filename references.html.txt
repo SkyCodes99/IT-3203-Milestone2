@@ -1,0 +1,25 @@
+<section class="references-section">
+    <h2>Academic References</h2>
+    <ol>
+        <li>
+            Wu, Y. et al. (2025). "Unveiling Environmental Impacts of Large Language Model Serving..." (arXiv). 
+            <a href="https://arxiv.org/abs/2502.11256" target="_blank">View Paper</a>
+        </li>
+        <li>
+            Yuan, H. et al. (2024). "E-waste challenges of generative artificial intelligence." (Nature).
+            <a href="http://www.iue.cas.cn/xwzx/kydt/202411/P020241101317045439969.pdf" target="_blank">View PDF</a>
+        </li>
+    </ol>
+
+    <h2>Learning Resources</h2>
+    <ul>
+        <li>
+            <strong>MIT News:</strong> Explained: Generative AI's environmental impact.
+            <a href="https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117" target="_blank">Read Article</a>
+        </li>
+        <li>
+            <strong>BankInfoSecurity:</strong> AI Boom Set to Dump a Mountain of E-Waste.
+            <a href="https://www.bankinfosecurity.com/ai-boom-set-to-dump-mountain-e-waste-a-26666" target="_blank">Read News</a>
+        </li>
+    </ul>
+</section>

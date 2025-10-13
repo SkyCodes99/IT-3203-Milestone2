@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LLMs & Environment - Homepage</title>
+    <link rel="stylesheet" href="style.css">
+    </head>
+<body>
+
+    <header class="main-header">
+        <nav class="main-nav">
+            <a href="index.html" class="nav-link active">Home</a>
+            <a href="subtopic1.html" class="nav-link">Energy Consumption</a>
+            <a href="subtopic2.html" class="nav-link">Hardware Lifecycle</a>
+            <a href="concepts.html" class="nav-link">Key Concepts</a>
+            <a href="references.html" class="nav-link">References</a>
+            <a href="about.html" class="nav-link">About</a>
+        </nav>
+    </header>
+
+    <main class="content-grid">
+
+        <section class="intro-section full-span">
+            <h1>The Environmental Footprint of Large Language Models</h1>
+            <p class="abstract">
+                <strong>Abstract:</strong> This project investigates the substantial environmental impact of modern Large Language Models (LLMs), focusing on the immense energy required for training and deployment, and the resource-intensive hardware lifecycle. Understanding these costs is essential for promoting sustainable practices in AI development.
+            </p>
+        </section>
+
+        <section class="key-terms-section">
+            <h2>Key Terms</h2>
+            <ul>
+                <li><strong>LLM:</strong> Large Language Model, a deep learning model trained on vast text data.</li>
+                <li><strong>PUE:</strong> Power Usage Effectiveness, a metric for data center energy efficiency.</li>
+                <li><strong>Embodied Carbon:</strong> The total greenhouse gas emissions associated with a hardware asset's production and disposal.</li>
+                <li><strong>Inference:</strong> The process of running a trained LLM to generate a prediction or response.</li>
+            </ul>
+        </section>
+
+        <section class="toc-section">
+            <h2>Table of Contents</h2>
+            <table>
+                <caption>Site Structure and Content Overview</caption>
+                <thead>
+                    <tr>
+                        <th>Page</th>
+                        <th>Description</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Subtopic 1: Energy Consumption</td>
+                        <td>Detail on the electrical cost of training and inference.</td>
+                        <td><a href="subtopic1.html">Read More</a></td>
+                    </tr>
+                    <tr>
+                        <td>Subtopic 2: Hardware Lifecycle</td>
+                        <td>The embodied carbon and e-waste from GPUs.</td>
+                        <td><a href="subtopic2.html">Read More</a></td>
+                    </tr>
+                    <tr>
+                        <td>Key Concepts</td>
+                        <td>Definitions of 5-7 core terms.</td>
+                        <td><a href="concepts.html">View Concepts</a></td>
+                    </tr>
+                    <tr>
+                        <td>References & Resources</td>
+                        <td>Sources and materials for further learning.</td>
+                        <td><a href="references.html">View Resources</a></td>
+                    </tr>
+                    <tr>
+                        <td>About the Project</td>
+                        <td>Author and project introduction.</td>
+                        <td><a href="about.html">Learn About Us</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        
+        <aside class="image-sidebar">
+            <img src="llm-environment-placeholder.jpg" alt="A graphic representing energy use or a data center.">
+            <p>Illustrating the hidden energy costs of modern AI infrastructure.</p>
+        </aside>
+
+    </main>
+
+    <footer>
+        <p>
+            &copy; 2025 LLM Environmental Project. This is a class project for 
+            <a href="https://ksuweb.github.io/IT3203/" target="_blank" class="footer-link">IT3203 - Web Development</a>.
+        </p>
+    </footer>
+
+</body>
+</html>

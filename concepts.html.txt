@@ -1,0 +1,17 @@
+<h1>Key Concepts</h1>
+<dl>
+    <dt>Embodied Carbon</dt>
+    <dd>The emissions from manufacturing, transporting, and disposing of hardware, before it's even powered on.</dd>
+    
+    <dt>Inference</dt>
+    <dd>The operational use of a trained model to make predictions. This consumes less power per query than training but happens billions of times.</dd>
+    
+    <dt>PUE (Power Usage Effectiveness)</dt>
+    <dd>A ratio of total energy entering a data center to the energy actually used by the computing equipment (PUE of 1.0 is ideal).</dd>
+
+    <dt>Quantization</dt>
+    <dd>A technique to reduce the numerical precision of a model's weights (e.g., from 32-bit to 8-bit), significantly reducing memory and energy use.</dd>
+    
+    <dt>Green Computing</dt>
+    <dd>The environmentally responsible use of computers and computing resources, focused on efficiency and sustainability.</dd>
+</dl>

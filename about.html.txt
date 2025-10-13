@@ -1,0 +1,20 @@
+<h1>About Me and This Project</h1>
+
+<section class="about-author">
+    <h2>The Author (Mini-Resume)</h2>
+    <img src="placeholder-headshot.jpg" alt="Professional headshot of the author." style="width: 150px; float: right; margin-left: 20px; border-radius: 50%;">
+    <p>I am [Your Name], a student in the IT3203 - Web Development course. I am passionate about technology ethics and sustainable computing. This project is an application of fundamental HTML and CSS skills acquired in this course.</p>
+    
+    <h3>Key Skills</h3>
+    <ul>
+        <li>HTML5 & CSS3</li>
+        <li>Basic JavaScript</li>
+        <li>Version Control (Git/GitHub)</li>
+        <li>Data Analysis</li>
+    </ul>
+</section>
+
+<section class="about-project">
+    <h2>About the Project</h2>
+    <p>This website serves as the first for the IT3203 project. Its primary goal is to demonstrate the creation of a well-structured, multi-page website using semantic HTML and a single, responsive CSS file. The content topic—The Environmental Impact of LLMs—will be expanded and refined in subsequent project phases.</p>
+</section>

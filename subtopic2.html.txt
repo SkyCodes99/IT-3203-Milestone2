@@ -1,0 +1,24 @@
+<h1>Subtopic 2: Hardware Lifecycle and E-Waste</h1>
+<p>Discuss the embodied carbon in manufacturing GPUs and the e-waste problem. Use a table to compare the estimated carbon footprint of two different LLMs or data center types.</p>
+<table>
+    <caption>Estimated Carbon Emissions</caption>
+    <thead>
+        <tr>
+            <th>Model</th>
+            <th>Training Emissions (tCO2e)</th>
+            <th>Comparison</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>GPT-3</td>
+            <td>500</td>
+            <td>Equivalent to 110 cars for one year</td>
+        </tr>
+        <tr>
+            <td>BLOOM</td>
+            <td>25</td>
+            <td>Lower due to collaborative training</td>
+        </tr>
+    </tbody>
+</table>
