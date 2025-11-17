@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Self-Assessment Quiz</title>
+    <link rel="stylesheet" href="styles.css"> </head>
+<body>
+    <header>
+        </header>
+
+    <main class="quiz-container">
+        <h1>Assess Your Understanding</h1>
+        <form id="assessment-quiz">
+            <div class="question-block" id="q1">
+                <label for="q1-input">Q1: [Your Topic Question requiring a short answer]</label>
+                <input type="text" id="q1-input" name="q1-answer" required>
+            </div>
+            
+            <div class="question-block" id="q2">
+                <p>Q2: [Your Multiple-Choice Question]</p>
+                <label><input type="radio" name="q2-choice" value="A"> Option A</label>
+                <label><input type="radio" name="q2-choice" value="B"> Option B</label>
+                <label><input type="radio" name="q2-choice" value="C"> Option C</label>
+            </div>
+
+            <div class="question-block" id="q5">
+                <p>Q5: [Your Multi-Selection Question, choose ALL correct options]</p>
+                <label><input type="checkbox" name="q5-choice" value="W"> Option W</label>
+                <label><input type="checkbox" name="q5-choice" value="X"> Option X (Correct)</label>
+                <label><input type="checkbox" name="q5-choice" value="Y"> Option Y</label>
+                <label><input type="checkbox" name="q5-choice" value="Z"> Option Z (Correct)</label>
+            </div>
+            
+            <div class="form-actions">
+                <button type="submit" id="submit-quiz">Submit Quiz</button>
+                <button type="reset" id="reset-quiz">Retake/Reset Quiz</button>
+            </div>
+        </form>
+
+        <div id="quiz-results" style="margin-top: 20px;">
+            </div>
+    </main>
+
+    <script src="quiz.js"></script>
+</body>
+</html>
